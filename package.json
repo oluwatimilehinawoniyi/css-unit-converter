@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/oluwatimilehinawoniyi/css-unit-converter.git"
   },
+  "publisher": "Oluwatimilehin Awoniyi",
   "engines": {
     "vscode": "^1.91.0"
   },
