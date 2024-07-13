@@ -66,6 +66,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For issues or suggestions, please open an issue on the GitHub repository.
+For issues or suggestions, please open an issue on the [GitHub repository](https://github.com/oluwatimilehinawoniyi/css-unit-converter/issues).
 
 **Enjoy!**
