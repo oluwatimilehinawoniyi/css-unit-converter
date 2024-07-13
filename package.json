@@ -3,6 +3,10 @@
   "displayName": "CSS Unit Converter",
   "description": "A VS Code extension that converts CSS unit values and displays them in hover cards.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oluwatimilehinawoniyi/css-unit-converter.git"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
