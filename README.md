@@ -62,7 +62,7 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE file](https://github.com/oluwatimilehinawoniyi/css-unit-converter/blob/master/LICENSE) for details.
 
 ## Contact
 
