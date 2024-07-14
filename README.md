@@ -2,13 +2,14 @@
 
 A VS Code extension that converts CSS unit values and displays them in hover cards or comments beside the code. This extension supports units like pixels (px), ems (em), rems (rem), percentages (%), min-content, max-content, fit-content, and custom units.
 
+![feature](/src//assets/feature.gif)
+
 ## Features
 
 - **Hover Conversion**: Hover over a CSS unit value to see the converted values.
 - **Inline Comments**: Option to insert conversion results as comments beside the code.
 
-<!--
-\!\[feature X\]\(images/feature-x.png\) -->
+![feature](/src//assets/feature.jpg)
 
 ## Requirements
 
