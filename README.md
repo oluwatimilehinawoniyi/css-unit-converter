@@ -4,9 +4,8 @@ A VS Code extension that converts CSS unit values and displays them in hover car
 
 ## Features
 
-- Converts CSS unit values on hover or as comments beside the code.
-- Supports multiple CSS unit types and custom units.
-- Easy integration with VS Code.
+- **Hover Conversion**: Hover over a CSS unit value to see the converted values.
+- **Inline Comments**: Option to insert conversion results as comments beside the code.
 
 <!--
 \!\[feature X\]\(images/feature-x.png\) -->
@@ -45,6 +44,8 @@ If you have any requirements or dependencies, add a section describing those and
 ## Configuration
 
 You can configure the extension using VS Code settings:
+
+- `cssUnitConverter.showAsComment`: Set to `true` to enable inline comments for conversion results. Illustration:
 
 ```json
 {
