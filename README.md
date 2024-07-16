@@ -62,7 +62,7 @@ You can configure the extension using VS Code settings:
 
 Contributions are welcome! Please fork the repository and submit pull requests. Checkout the code of conduct via:
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ## License
 
